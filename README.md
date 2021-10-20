@@ -8,6 +8,8 @@ visit : https://hacktoberfest.digitalocean.com/
 
 Register yourself by github or gitlab credentials.
 
+serach for #hacktoberfest and select any repository file you want to change.
+
 Create your first Pull Request (PR).
 
 Fork this repository by click the Fork button in the top right of this page.
